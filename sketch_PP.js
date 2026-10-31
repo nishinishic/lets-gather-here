@@ -72,7 +72,7 @@ function setup() {
   setTimeout(() => {
     // if Chrome blocks audio until a gesture, this
     // line will run as soon as the user has clicked once
-    speech.speak('Welcome to the private channel');
+    speech.speak('Welcome to the private tunnel');
   }, 10000);
 
   setTimeout(() => {
